@@ -24,11 +24,11 @@ The goal of this project is to display financial data in a clean and easy to und
 
 1. Clone the repository
 2. Go to project folder
-cd finance-dashboard
+cd finance-dashboard    
 Install dependencies
 npm install
 Run the project
 npm run dev
-
+ 
 ```bash
 git clone <your-repo-link>
