@@ -29,6 +29,3 @@ Install dependencies
 npm install
 Run the project
 npm run dev
- 
-```bash
-git clone <your-repo-link>
